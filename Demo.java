@@ -4,6 +4,8 @@ public class Demo
 
                   public void cd1()
                {
+                  int xyz=10;
+                   int x=56;
                }
       }
 }
