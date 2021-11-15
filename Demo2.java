@@ -5,5 +5,7 @@ public class Demo2
   {
        int x=15;
        int y=20;
+        
+        int sum=x+y;
   }
 }
